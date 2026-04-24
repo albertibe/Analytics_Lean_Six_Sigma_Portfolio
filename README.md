@@ -1,4 +1,4 @@
-# City of Toronto — Data Analytics & Process Improvement Program
+# COT — Data Analytics & Process Improvement Program
 ## Consulting Engagement Portfolio | Expertedge Consulting Group (ECG)
 
 **Consultant:** Albert Ibe, PMP | CBAP | CSM | SAFe SM | AWS AI Practitioner  
