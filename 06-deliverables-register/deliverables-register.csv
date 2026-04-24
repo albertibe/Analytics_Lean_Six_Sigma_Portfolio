@@ -1,0 +1,48 @@
+Deliverable ID,Deliverable Name,Category,Division,Phase,Owner,Due Date,Status,Approved By,Approval Date,Location / Link,Notes
+DLV-001,Engagement Charter,Governance,All,Initiation,Albert Ibe,2024-01-15,Completed,Director CIO,2024-01-15,/00-engagement-overview/engagement-charter.md,Signed by all division leads
+DLV-002,LSS Project Charter + SIPOC,LSS - Define,All,Define,Albert Ibe,2024-01-31,Completed,Director CIO,2024-01-31,/04-lean-six-sigma/define/project-charter-lss.md,Includes VOC and CTQ tree
+DLV-003,Stakeholder Register,PM,All,Initiation,Albert Ibe,2024-01-20,Completed,Albert Ibe,2024-01-20,/01-project-management/registers/stakeholder-register.csv,18 stakeholders documented
+DLV-004,Risk Register (Initial),PM,All,Initiation,Albert Ibe,2024-01-20,Completed,Albert Ibe,2024-01-20,/01-project-management/registers/risk-register.csv,12 initial risks identified; updated monthly
+DLV-005,Communication Plan,PM,All,Initiation,Albert Ibe,2024-01-25,Completed,Director CIO,2024-01-25,/01-project-management/plans/communication-plan.md,
+DLV-006,Program Governance Model,Governance,All,Initiation,Albert Ibe,2024-01-31,Completed,Director CIO,2024-01-31,/01-project-management/governance/program-governance-model.md,Steering committee established
+DLV-007,Data Collection Plan,LSS - Measure,All,Measure,Albert Ibe,2024-02-15,Completed,Albert Ibe,2024-02-15,/04-lean-six-sigma/measure/measurement-plan.md,9 data sources; MSA completed
+DLV-008,Measurement System Analysis (MSA),LSS - Measure,All,Measure,Albert Ibe,2024-02-28,Completed,Albert Ibe,2024-02-28,/04-lean-six-sigma/measure/measurement-plan.md,SAP HCM flagged for remediation
+DLV-009,Baseline Metrics Report — Water Services,LSS - Measure,Water,Measure,Albert Ibe,2024-02-28,Completed,Manager Water,2024-02-29,/04-lean-six-sigma/measure/measurement-plan.md,Baseline sigma = 1.8
+DLV-010,Baseline Metrics Report — MLS,LSS - Measure,MLS,Measure,Albert Ibe,2024-02-28,Completed,Manager MLS,2024-02-29,/04-lean-six-sigma/measure/measurement-plan.md,Baseline sigma = 2.1
+DLV-011,Baseline Metrics Report — HR Analytics,LSS - Measure,HR,Measure,Albert Ibe,2024-02-28,Completed,Director HR,2024-02-29,/04-lean-six-sigma/measure/measurement-plan.md,HRIS data quality critical risk identified
+DLV-012,Pareto Analysis — Water Work Order Delays,LSS - Measure,Water,Measure,Albert Ibe,2024-03-08,Completed,Albert Ibe,2024-03-08,/04-lean-six-sigma/measure/measurement-plan.md,Top 3 causes = 74.1% of delays
+DLV-013,Pareto Analysis — MLS Repeat Violations,LSS - Measure,MLS,Measure,Albert Ibe,2024-03-08,Completed,Albert Ibe,2024-03-08,/04-lean-six-sigma/measure/measurement-plan.md,Top 2 causes = 72.7% of repeats
+DLV-014,Value Stream Map — HR Reporting Current State,LSS - Measure,HR,Measure,Albert Ibe,2024-03-12,Completed,Albert Ibe,2024-03-12,/04-lean-six-sigma/measure/measurement-plan.md,95% NVA identified
+DLV-015,Fishbone Diagram — Water Work Order Delays,LSS - Analyze,Water,Analyze,Albert Ibe,2024-04-15,Completed,Albert Ibe,2024-04-15,/04-lean-six-sigma/analyze/root-cause-analysis.md,6 cause categories mapped
+DLV-016,Fishbone Diagram — MLS Repeat Violations,LSS - Analyze,MLS,Analyze,Albert Ibe,2024-04-15,Completed,Albert Ibe,2024-04-15,/04-lean-six-sigma/analyze/root-cause-analysis.md,
+DLV-017,5-Why Analysis — SCADA-MAXIMO Disconnect,LSS - Analyze,Water,Analyze,Albert Ibe,2024-04-22,Completed,Albert Ibe,2024-04-22,/04-lean-six-sigma/analyze/root-cause-analysis.md,Root cause: No integration ever built
+DLV-018,5-Why Analysis — MLS Repeat Violations,LSS - Analyze,MLS,Analyze,Albert Ibe,2024-04-22,Completed,Albert Ibe,2024-04-22,/04-lean-six-sigma/analyze/root-cause-analysis.md,Root cause: System configured for record-keeping only
+DLV-019,5-Why Analysis — HR Reporting Waste,LSS - Analyze,HR,Analyze,Albert Ibe,2024-04-22,Completed,Albert Ibe,2024-04-22,/04-lean-six-sigma/analyze/root-cause-analysis.md,Root cause: No HR data governance
+DLV-020,Root Cause Prioritization Matrix,LSS - Analyze,All,Analyze,Albert Ibe,2024-05-01,Completed,Director CIO,2024-05-03,/04-lean-six-sigma/analyze/root-cause-analysis.md,8 root causes prioritized; 4 critical
+DLV-021,Business Requirements Document — Full Program,BA,All,Analyze,Albert Ibe,2024-05-15,Completed,Director CIO,2024-05-17,/02-business-analysis/requirements/business-requirements-doc.md,47 requirements signed off
+DLV-022,Pugh Matrix — Solution Selection,LSS - Improve,Water,Improve,Albert Ibe,2024-05-20,Completed,Manager Water,2024-05-22,/04-lean-six-sigma/improve/solution-design.md,Option B selected
+DLV-023,Solution Design — SCADA-MAXIMO Integration,Technical,Water,Improve,Albert Ibe,2024-06-01,Completed,IT Director,2024-06-05,/04-lean-six-sigma/improve/solution-design.md,API spec approved
+DLV-024,Solution Design — Risk-Based Priority Scoring,Analytics,Water,Improve,Albert Ibe,2024-06-01,Completed,Manager Water,2024-06-03,/04-lean-six-sigma/improve/solution-design.md,Scoring model validated against pilot data
+DLV-025,Solution Design — Parts Demand Model,Analytics,Water,Improve,Albert Ibe,2024-06-08,Completed,Manager Water,2024-06-10,/04-lean-six-sigma/improve/solution-design.md,Regression model with seasonal adjustment
+DLV-026,Solution Design — MLS Property Risk Scoring,Analytics,MLS,Improve,Albert Ibe,2024-06-01,Completed,Manager MLS,2024-06-05,/04-lean-six-sigma/improve/solution-design.md,5-component composite score (0-100)
+DLV-027,Solution Design — MLS Automated Inspection Queue,Technical,MLS,Improve,Albert Ibe,2024-06-08,Completed,Manager MLS,2024-06-12,/04-lean-six-sigma/improve/solution-design.md,
+DLV-028,HR Data Governance Remediation Plan,Governance,HR,Improve,Albert Ibe,2024-06-01,Completed,Director HR,2024-06-04,Internal document,6-week remediation workstream
+DLV-029,HR Data Pipeline Architecture,Technical,HR,Improve,Albert Ibe,2024-06-15,Completed,IT Director,2024-06-18,Internal document,SAP HCM → Azure SQL → Power BI
+DLV-030,Water Services Power BI Dashboard — Sprint 1,Analytics,Water,Improve,Albert Ibe,2024-07-12,Completed,Manager Water,2024-07-14,Power BI Service,Operational overview module
+DLV-031,Water Services Power BI Dashboard — Sprint 2,Analytics,Water,Improve,Albert Ibe,2024-07-26,Completed,Manager Water,2024-07-28,Power BI Service,Asset health module
+DLV-032,Water Services Power BI Dashboard — Sprint 3,Analytics,Water,Improve,Albert Ibe,2024-08-09,Completed,Director Water,2024-08-12,Power BI Service,Management KPIs module
+DLV-033,MLS Compliance Dashboard,Analytics,MLS,Improve,Albert Ibe,2024-08-16,Completed,Manager MLS,2024-08-19,Power BI Service,4 modules delivered
+DLV-034,HR Workforce Analytics Dashboard,Analytics,HR,Improve,Albert Ibe,2024-08-30,Completed,Director HR,2024-09-02,Power BI Service,4 modules; first-ever enterprise HR dashboard
+DLV-035,UAT Plan — All Divisions,BA/QA,All,Improve,Albert Ibe,2024-08-01,Completed,Albert Ibe,2024-08-01,/02-business-analysis/uat/uat-test-plan.md,
+DLV-036,UAT Execution — Water Services,BA/QA,Water,Improve,Albert Ibe,2024-08-23,Completed,Manager Water,2024-08-26,UAT records,All P1/P2 defects resolved; GO approved
+DLV-037,UAT Execution — MLS,BA/QA,MLS,Improve,Albert Ibe,2024-09-06,Completed,Manager MLS,2024-09-09,UAT records,GO approved
+DLV-038,UAT Execution — HR Analytics,BA/QA,HR,Improve,Albert Ibe,2024-09-13,Completed,Director HR,2024-09-16,UAT records,GO approved
+DLV-039,Pilot Results Report — Water North District,LSS - Improve,Water,Improve,Albert Ibe,2024-09-20,Completed,Director CIO,2024-09-23,/04-lean-six-sigma/improve/solution-design.md,73% cycle time reduction in pilot
+DLV-040,Pilot Results Report — MLS Central District,LSS - Improve,MLS,Improve,Albert Ibe,2024-09-20,Completed,Director CIO,2024-09-23,/04-lean-six-sigma/improve/solution-design.md,High-risk coverage 61% → 79% in pilot
+DLV-041,Full Rollout — Water Services,Technical,Water,Improve,Albert Ibe,2024-10-15,Completed,Director Water,2024-10-17,,All 4 districts live
+DLV-042,Full Rollout — MLS,Technical,MLS,Improve,Albert Ibe,2024-10-22,Completed,Director MLS,2024-10-24,,All zones live
+DLV-043,Full Rollout — HR Analytics,Technical,HR,Improve,Albert Ibe,2024-10-29,Completed,Director HR,2024-10-31,,All divisions live
+DLV-044,Control Plan — All Divisions,LSS - Control,All,Control,Albert Ibe,2024-11-08,Completed,Director CIO,2024-11-12,/04-lean-six-sigma/control/control-plan.md,Control charts live in Power BI
+DLV-045,Knowledge Transfer — City IT Staff,PM,All,Control,Albert Ibe,2024-12-13,Completed,IT Director,2024-12-15,,All 7 handover sessions completed
+DLV-046,Final Engagement Report,PM,All,Control,Albert Ibe,2024-12-20,Completed,Director CIO,2024-12-23,,Delivered to CIO office
+DLV-047,Post-Implementation Review (Scheduled),PM,All,Post-Engagement,Albert Ibe,2025-03-31,Scheduled,TBD,,Scheduled for Q1 2025,6-month outcome validation
