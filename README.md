@@ -7,7 +7,7 @@
 **Engagement Period:** January 2024 – December 2024 (12 months)  
 **Engagement Value:** ~$4.2M  
 **Role:** Senior Business Analyst & Technical Project Manager  
-🔗 [LinkedIn](https://www.linkedin.com/in/albertibe) | [Data Governance Portfolio](https://github.com/albertibe/data-governance-framework) | [BA/PM Portfolio](https://github.com/albertibe/ba-pm-portfolio)
+🔗 [LinkedIn](https://www.linkedin.com/in/albertibe) 
 
 ---
 
