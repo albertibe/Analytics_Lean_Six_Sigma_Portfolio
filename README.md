@@ -3,7 +3,7 @@
 
 **Consultant:** Albert Ibe, PMP | CBAP | CSM | SAFe SM | AWS AI Practitioner  
 **Firm:** Expertedge Consulting Group (ECG)  
-**Client:** City of Toronto (COT) — Office of the Chief Information Officer  
+**Client:** City of Toronto (COT)  
 **Engagement Period:** January 2024 – December 2024 (12 months)  
 **Engagement Value:** ~$4.2M  
 **Role:** Senior Business Analyst & Technical Project Manager  
