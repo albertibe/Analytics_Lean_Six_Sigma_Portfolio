@@ -2,8 +2,7 @@
 ## Consulting Engagement Portfolio | Expertedge Consulting Group (ECG)
 
 **Consultant:** Albert Ibe, PMP | CBAP | CSM | SAFe SM | AWS AI Practitioner  
-**Firm:** Expertedge Consulting Group (ECG)  
-**Client:** City of Toronto (COT)  
+**Firm:** Expertedge Consulting Group (ECG)   
 **Engagement Period:** January 2024 – December 2024 (12 months)  
 **Engagement Value:** ~$4.2M  
 **Role:** Senior Business Analyst & Technical Project Manager  
@@ -13,7 +12,7 @@
 
 ## Engagement Summary
 
-Engaged by the City of Toronto's Office of the Chief Information Officer (CIO) to lead a 12-month data analytics modernization and Lean Six Sigma process improvement program across three municipal service divisions.
+Lead a 12-month data analytics modernization and Lean Six Sigma process improvement program across three municipal service divisions.
 
 The engagement addressed a critical gap in the City's ability to use operational data for evidence-based decision-making — resulting in service delivery inefficiencies, delayed capital planning decisions, and a manual reporting burden consuming thousands of staff hours annually.
 
@@ -23,7 +22,7 @@ Delivered end-to-end: from diagnostic assessment through DMAIC process redesign,
 
 ## Engagement Scope
 
-### Division 1 — Toronto Water Services
+### Division 1 — Water Services
 **Challenge:** 14-day manual work order reporting cycle; no predictive visibility into infrastructure maintenance backlogs  
 **Solution:** Automated Power BI maintenance analytics dashboard; DMAIC-driven work order process redesign  
 **Impact:** 73% reduction in reporting cycle time; $2.1M in avoided reactive maintenance costs (Year 1 projection)
